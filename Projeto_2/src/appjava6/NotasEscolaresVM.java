@@ -38,5 +38,6 @@ public class NotasEscolaresVM {
         }
         ler.close();
         System.out.println(".: Sistema de Notas Encerrado :.");
+        System.out.println("Alterado no VS Web")
     }
 }
